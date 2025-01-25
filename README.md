@@ -19,15 +19,6 @@ HTML: Estrutura da página.
 CSS: Estilização visual (estilo sugerido para um toque amigável e intuitivo).
 JavaScript: Lógica para adicionar amigos, listar e sortear.
 
-🚀 Como Usar
-1️⃣ Clonar o repositório
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/amigo-secreto.git
-2️⃣ Abrir o arquivo HTML
-Abra o arquivo index.html em seu navegador preferido.
-
 🎥 Demonstração
 1. Adicionando Amigos
 
